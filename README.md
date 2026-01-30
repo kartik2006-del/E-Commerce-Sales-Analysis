@@ -41,3 +41,16 @@ loss-making products, and actionable business insights.
 - NumPy
 - Matplotlib
 - Seaborn
+
+## Dataset Information
+The dataset used in this project is not included in the repository 
+due to size and confidentiality reasons.
+
+You can use any standard E-commerce sales dataset 
+with columns such as:
+- Order Date
+- Sales
+- Profit
+- Quantity
+- Category
+- Sub-Category
